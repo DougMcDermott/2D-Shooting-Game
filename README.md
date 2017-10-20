@@ -1,5 +1,5 @@
 # 2D-Shooting-Game
-This game is a prototype and is not complete. Shoot the red objects to kill them. It displays your ammo, hover pack fuel, and health (health does not do anything right now) in the top left corner.
+This game is a prototype and is not complete. Shoot the red objects to kill them. It displays your ammo, hover pack fuel, and health (health does not do anything right now) in the top left corner. See 2DShootingGame.gif.
 <br />
 <br />Controls:
 <br />W-Press once to jump. Press again to double jump and hold to hover for a short time.
